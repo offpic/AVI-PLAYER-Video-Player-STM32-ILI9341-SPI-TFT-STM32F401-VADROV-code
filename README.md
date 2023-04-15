@@ -3,7 +3,7 @@ AVI PLAYER STM32 ILI9341 SPI TFT STM32F401
 
 ffmpeg -i SpongeBob.mp4 -c:a mp3 -c:v mjpeg -s 320x240 -r 25 -q 15 video1.avi
 
-THANk YOU VADROV
+THANK YOU VADROV
 
 CODE:
 
