@@ -1,4 +1,9 @@
+# AVI-PLAYER-STM32-ILI9341-SPI-TFT VADROV code
+AVI PLAYER Video Player STM32 ILI9341 SPI DMA TFT STM32F401 VADROV 
 
+https://www.youtube.com/watch?v=yRFJdpKtyOI&t=66s
+
+ffmpeg -i SpongeBob.mp4 -c:a mp3 -c:v mjpeg -s 320x240 -r 25 -q 15 video1.avi
 
 <img width="960" alt="Screenshot_209" src="https://user-images.githubusercontent.com/31142397/232174767-460a454e-1917-492c-9020-f442c8908705.png">
 
